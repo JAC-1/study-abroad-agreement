@@ -1,7 +1,8 @@
 
 # Official Agreements
 
-![meme of boring]()
+
+![Monkey holding a document](https://tenor.com/bjmAr.gif)
 
 To study abroad in Alberta, you need to agree to this document. Before you agree, we will learn some important English words. 
 
@@ -128,7 +129,7 @@ A formal word for **continue and not stop**. It also means to **repair** and/or 
 
 ## overall (  )
 
-A very important word. It means 全体的に. We use it often when talking about results.
+A very important word. It means **全体的に**. We use it often when talking about results.
 
 *Sometimes the acting was bad, but it was a good movie overall.*
 
