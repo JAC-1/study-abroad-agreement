@@ -10,7 +10,7 @@ To study abroad in Alberta, **you need to agree to this document**. Before you a
 - [Obey](#obey)
 - [Disobey](#disobey)
 - [Law](#law)
-- [Against the law / rules](#against-the-law)
+- [Against the law / rules](#against-the-law-rules)
 - [Break the law / rule](#break-the-law-rule)
 - [Illegal](#illegal)
 - [Faith covenant](#faith-covenant)
@@ -28,7 +28,7 @@ To study abroad in Alberta, **you need to agree to this document**. Before you a
 - [Maintain](#maintain)
 - [Overall](#overall)
 - [Attendance](#attendence)
-- [ACademic](#academic)
+- [Academic](#academic)
 - [Psychological](#Psychological)
 - [Necessary](#necessary)
 - [Guidance](#guidance)
@@ -79,7 +79,7 @@ Another very important word. A *law* is **a government rule**.
 *Wear a seat-belt. It's the law*
 
 
-## against the law / rules  
+## against the law (rules)  
 
 <img src="./docs/assets/crime-jim-carrey.gif" width="450px"/>
 
@@ -87,7 +87,7 @@ Something **you can't do because there is a *law*** that says you can't do it.
 
 *Chewing gum in Singapore is **against the law***
 
-## break the law / rule
+## break the law (rule)
 
 When you do something that is **against the law**, or **against the rules**. 
 
@@ -248,7 +248,9 @@ A formal word for **the details are not correct** or **many mistakes**.
 *This tape measure is very inaccurate* 
 
 ## follow the rules  
+
 <img src="./docs/assets/idiot-lafuddyduddy.gif" width="450px"/>
+
 To **not break the rules**.
 
 *I always try to follow the rules, but sometimes, when nobody is looking, I sleep at my desk*
@@ -259,8 +261,9 @@ A very formal and advanced word for **follow the rules**
 
 *If you go on this program you must abide by the rules*
 
-## Immediate / immediately  
+## Immediate (immediately)
 <img src="./docs/assets/now-now-cat.gif" width="450px"/>
+
 A formal word for **now** and **without waiting**. It can also mean **near** or **very close**.
 
 *If you fall into a river full of alligators, you will be in immediate danger.*
