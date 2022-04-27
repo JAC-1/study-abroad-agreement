@@ -2,7 +2,7 @@
 # Official Agreements
 
 ![monkey](/docs/assets/monkey-file.gif)
-<img src="./docs/assets/monkey-file.gif" width="100px"/>
+<img src="./docs/assets/monkey-file.gif" width="450px"/>
 
 To study abroad in Alberta, you need to agree to this document. Before you agree, we will learn some important English words. 
 
