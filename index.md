@@ -1,7 +1,7 @@
 
 # Official Agreements
 
-<div class="tenor-gif-embed" data-postid="16969045" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-file-document-present-glasses-off-gif-16969045">Monkey File GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![monkey](/docs/assets/monkey-file.gif)
 
 To study abroad in Alberta, you need to agree to this document. Before you agree, we will learn some important English words. 
 
