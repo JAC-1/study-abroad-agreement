@@ -1,10 +1,18 @@
 
 # Official Agreements
 
-![monkey](/docs/assets/monkey-file.gif)
 <img src="./docs/assets/monkey-file.gif" width="450px"/>
 
-To study abroad in Alberta, you need to agree to this document. Before you agree, we will learn some important English words. 
+To study abroad in Alberta, **you need to agree to this document**. Before you agree, we will learn some important English words. 
+
+# Table of Contents
+- [Opposite](#Opposite)
+- [Obey](#obey)
+- [Disobey](#disobey)
+- [Law](#law)
+- [against the law / rules](#against-the-law)
+- [break the law / rule](#break-the-law)
+- [Illegal](#illegal)
 
 ## Opposite (  )
 
@@ -28,7 +36,7 @@ A very important word. It means **ルールを守る**. It also means to **do wh
 ## Disobey (  )
 <img src="./docs/assets/shiba-shibe.gif" width="450px"/>
 
-The opposite of Obey.
+The **opposite of Obey**.
 
 *If you disobey the rules you will be killed*
 
@@ -108,7 +116,9 @@ A formal word that mean **eat**, **drink** and sometimes **buy**.
 A boyfriend/girlfriend **relationship involving sex**.
 
 ## Motorized vehicles (  )
+
 <img src="./docs/assets/extreme-e-motorsport.gif" width="450px"/>
+
 The *formal* category that includes **cars**, **motorbikes**, **trucks**. Anything that has a motor and moves people and things. 
 
 ## Timetable (  )
@@ -150,7 +160,6 @@ A very important word. It means **全体的に**. We use it often when talking a
 
 ## Attendance (  )
 
-<img src="./docs/assets/giơtay-làem.gif" width="450px"/>
 
 The word for **coming to class**. Teachers **take attendance** every day. If you miss the class, your teacher will report you to the student office.
 
@@ -202,7 +211,7 @@ A formal word for **increase**. In most cases, it means **increase the time**.
 
 ## inaccurate / inaccuracies (  )
 
-<img src="./docs/assets/simpsongs-wrong-answer.gif" width="450px"/>
+<img src="./docs/assets/simpsons-wrong-answer.gif" width="450px"/>
 
 A formal word for **the details are not correct** or **many mistakes**.
 
