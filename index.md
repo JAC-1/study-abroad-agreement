@@ -8,6 +8,8 @@ To study abroad in Alberta, you need to agree to this document. Before you agree
 
 ## Opposite (  )
 
+<img src="./docs/assets/opposite-day-reversed.gif" width="450px"/>
+
 反対言葉
 
 **Off** is the *opposite* of **on**.
@@ -17,12 +19,14 @@ To study abroad in Alberta, you need to agree to this document. Before you agree
 
 ##  Obey (  )
 
+
 A very important word. It means **ルールを守る**. It also means to **do what a boss, teacher, or mother tells you to do.**
 
 *Obey your mother.*
 *You must obey the rules, or you will be removed from class*
 
 ## Disobey (  )
+<img src="./docs/assets/shiba-shibe.gif" width="450px"/>
 
 The opposite of Obey.
 
@@ -30,6 +34,7 @@ The opposite of Obey.
 
 
 ## Law (  )
+<img src="./docs/assets/barack-obama-president-obama.gif" width="450px"/>
 
 Another very important word. A *law* is **a government rule**.
 
@@ -37,6 +42,8 @@ Another very important word. A *law* is **a government rule**.
 
 
 ## against the law / rules (  )
+
+<img src="./docs/assets/crime-jim-carrey.gif" width="450px"/>
 
 Something **you can't do because there is a *law*** that says you can't do it.
 
@@ -52,6 +59,8 @@ When you do something that is **against the law**, or **against the rules**.
 
 ## Illegal (  )
 
+<img src="./docs/assets/illegal-website.gif" width="450px"/>
+
 Something that is **against the law**. 
 
 *Selling fake doraemon stuffed animals is illegal.*
@@ -61,6 +70,8 @@ Something that is **against the law**.
 A very advanced word. In this document it means *promise*. No one will check if you *broke the rules*, but you have to *promise* you will not break the rules.
 
 ## Effort (  )
+
+<img src="./docs/assets/trying-try.gif" width="450px"/>
 
 **To use energy and try**.
 
@@ -86,6 +97,8 @@ Being in the *Volleyball club* is an extracurricular activity.
 
 ## Consume (  )
 
+<img src="./docs/assets/eat-kirby.gif" width="450px"/>
+
 A formal word that mean **eat**, **drink** and sometimes **buy**.
 
 *If I don't consume sugar everyday, I will die* (do not eat or drink).
@@ -95,10 +108,12 @@ A formal word that mean **eat**, **drink** and sometimes **buy**.
 A boyfriend/girlfriend **relationship involving sex**.
 
 ## Motorized vehicles (  )
-
+<img src="./docs/assets/extreme-e-motorsport.gif" width="450px"/>
 The *formal* category that includes **cars**, **motorbikes**, **trucks**. Anything that has a motor and moves people and things. 
 
 ## Timetable (  )
+
+<img src="./docs/assets/schedule-nothing.gif" width="450px"/>
 
 Set *times for set activities*. 
 
@@ -135,15 +150,21 @@ A very important word. It means **全体的に**. We use it often when talking a
 
 ## Attendance (  )
 
+<img src="./docs/assets/giơtay-làem.gif" width="450px"/>
+
 The word for **coming to class**. Teachers **take attendance** every day. If you miss the class, your teacher will report you to the student office.
 
 ## Academic (  )
+
+<img src="./docs/assets/glasses-academic.gif" width="450px"/>
 
 The category used to talk about **grades** and general **school performance**. It's also a formal word for 'study' and/or 'school' often used in University.
 
 *It takes at least 8 years to get a PhD. It is an amazing academic achievement*
 
 ## Psychological (  )
+
+<img src="./docs/assets/funny-silly.gif" width="450px"/>
 
 The **category** used to talk about your **emotions and thoughts**.
 
@@ -181,12 +202,14 @@ A formal word for **increase**. In most cases, it means **increase the time**.
 
 ## inaccurate / inaccuracies (  )
 
+<img src="./docs/assets/simpsongs-wrong-answer.gif" width="450px"/>
+
 A formal word for **the details are not correct** or **many mistakes**.
 
 *This tape measure is very inaccurate* 
 
 ## follow the rules (  )
-
+<img src="./docs/assets/idiot-lafuddyduddy.gif" width="450px"/>
 To **not break the rules**.
 
 *I always try to follow the rules, but sometimes, when nobody is looking, I sleep at my desk*
@@ -198,7 +221,7 @@ A very formal and advanced word for **follow the rules**
 *If you go on this program you must abide by the rules*
 
 ## Immediate / immediately (  )
-
+<img src="./docs/assets/now-now-cat.gif" width="450px"/>
 A formal word for **now** and **without waiting**. It can also mean **near** or **very close**.
 
 *If you fall into a river full of alligators, you will be in immediate danger.*
@@ -211,6 +234,8 @@ A formal word for **quit**, **cancellation**, or **removed**.
 *Smiling will result in immediate dismissal from the no smiling club.*
 
 ## Refund (  )
+
+<img src="./docs/assets/refund-okay.gif" width="450px"/>
 
 A very important word that means **get your money back**. 
 
